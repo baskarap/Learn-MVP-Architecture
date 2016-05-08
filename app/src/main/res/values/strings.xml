@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearnMVP</string>
+    <string name="login">LOGIN</string>
+</resources>
